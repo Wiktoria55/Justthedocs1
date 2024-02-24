@@ -6,7 +6,8 @@ layout: default
 
 Testujemy nowe narzędzia
 
-![alt text](.../images/r.png)
+![przykład](../images/r.png)
+
 
 
   
