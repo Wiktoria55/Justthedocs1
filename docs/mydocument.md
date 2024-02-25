@@ -1,8 +1,8 @@
 ---
 title: Ćwiczenia Just the docs ! Rozdział 2
 layout: default
-nav_order: 3
+nav_order: 2
 ---
 
-# Testujemy nowe narzędzia
-gggggg
+# The castle
+The most famous tourist attraction in Pszczyna is the castle. In 2009 it was voted as one of the Seven Architectural Wonders of the Silesian Voivodeship. The castle was built in the 13th century and inhabited by Polish Piast nobles. Over the centuries, it changed its owner several times. 70% of the equipment in the castle is original, nothing has been damaged or looted over the years. There are living rooms, an impressive hall of mirrors and an armory. To visit the Pszczyna castle, you do not have to come to the city - all the interiors can be visited online.
