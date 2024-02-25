@@ -1,8 +1,8 @@
 ---
-title: Ćwiczenia Just the docs ! Rozdział 1
+title: Podrozdział
 layout: default
 nav_order: 1
 parent: mysite1
 ---
 
-dokument jdszcze jest pusty
+dokument jeszcze jest pusty
