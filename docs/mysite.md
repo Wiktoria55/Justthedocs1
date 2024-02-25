@@ -1,5 +1,5 @@
 ---
-title: Ćwiczenia Just the docs ! Rozdział 1
+title: Tearoom "Daisy"
 layout: default
 nav_order: 3
 ---
