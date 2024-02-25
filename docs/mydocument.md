@@ -1,5 +1,5 @@
 ---
-title: Ćwiczenia Just the docs ! Rozdział 2
+title: The castle
 layout: default
 nav_order: 2
 ---
