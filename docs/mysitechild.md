@@ -1,8 +1,8 @@
 ---
 title: Podrozdział
 layout: default
-nav_order: 2
 parent: mysite1
+nav_order: 2
 ---
 
 dokument jeszcze jest pusty
